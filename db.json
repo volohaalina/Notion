@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "32d7",
+      "email": "voloha1@gmail.com",
+      "password": "Ali12345",
+      "createdAt": "2024-12-06T04:05:10.403Z"
+    },
+    {
+      "id": "c714",
+      "email": "voloha@gmail.com",
+      "password": "Ali12345",
+      "createdAt": "2024-12-06T04:06:52.464Z"
+    },
+    {
+      "id": "1dac",
+      "email": "voloha11@gmail.com",
+      "password": "Ali12345",
+      "createdAt": "2024-12-22T13:34:47.469Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "66c7",
+      "title": "good day",
+      "body": "today",
+      "authorId": "32d7",
+      "createdAt": "2024-12-06T04:05:35.066Z"
+    },
+    {
+      "id": "eb8d",
+      "title": "yes",
+      "body": "no",
+      "authorId": "32d7",
+      "createdAt": "2024-12-06T04:05:46.657Z"
+    },
+    {
+      "title": "mon",
+      "body": "tue",
+      "createdAt": "2024-12-06T04:07:17.405Z",
+      "id": "cf0a"
+    }
+  ]
+}
